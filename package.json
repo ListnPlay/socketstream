@@ -37,7 +37,7 @@
     "connect": "= 2.4.5",
     "connect-redis": "= 1.4.4",
     "chokidar": "= 0.6.3",
-        "engine.io": "git+http://github.com/ListnPlay/engine§
+    "engine.io": "git+ssh://git@github.com/ListnPlay/engine.io",
     "uid2": "0.0.3"
   },
   "devDependencies": {
